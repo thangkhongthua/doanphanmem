@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1078077982708",
+    "project_id": "market-food-1e947",
+    "storage_bucket": "market-food-1e947.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1078077982708:android:68a80b2e1d0c83024ddba1",
+        "android_client_info": {
+          "package_name": "com.example.food_market"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgVwJEDnaI5DX-LDr7ni0udGGQmTaJbfk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1078077982708:android:5fb600e6626753234ddba1",
+        "android_client_info": {
+          "package_name": "com.example.hoicc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgVwJEDnaI5DX-LDr7ni0udGGQmTaJbfk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
